@@ -1,0 +1,31 @@
+{
+  "carProfiles": [
+    {
+      "carType": "TopCar",
+      "minX": 3.75,
+      "maxX": 8.33,
+      "minZ": -2.30,
+      "maxZ": 2.30,
+      "outlineEnableMinX": 3.75,
+      "outlineEnableMaxX": 4.72
+    },
+    {
+      "carType": "RightCar",
+      "minX": -2.42,
+      "maxX": 0,
+      "minZ": -2.30,
+      "maxZ": -1.64,
+      "outlineEnableMinX": -1.3,
+      "outlineEnableMaxX": 0
+    },
+    {
+      "carType": "LeftCar",
+      "minX": -2.82,
+      "maxX": 0.15,
+      "minZ": 1.55,
+      "maxZ": 2.25,
+      "outlineEnableMinX": -0.14,
+      "outlineEnableMaxX": 0.15
+    }
+  ]
+}
